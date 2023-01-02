@@ -1,7 +1,7 @@
-👋 Hi, I’m Rahul Kag.
-👨‍💻 Full Stack MERN Developer
-🌱 Software Developer
-📚 Languages: React Js, Angular , Javascript , CSS , HTML , Jenkins , Docker
+-👋 Hi, I’m Rahul Kag.
+-👨‍💻 Full Stack MERN Developer
+-🌱 Software Developer
+-📚 Languages: React Js, Angular , Javascript , CSS , HTML , Jenkins , Docker
   
-🤝🏻 Connect with Me
+-🤝🏻 Connect with Me
    LinkedIn - https://www.linkedin.com/in/rahulkag/
